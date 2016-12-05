@@ -1,0 +1,6 @@
+/* pages/index/Component/Button/Button.wxss */
+.button-wrapper{
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+}

@@ -1,0 +1,21 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+
+    "pages/index/Component/Textt/Textt",
+    "pages/index/Component/Iconn/Iconn",
+    "pages/index/Component/Progresss/Progresss",
+    "pages/index/Component/Navigator/Navigator",
+    "pages/index/Component/Navigator/OnePage",
+    "pages/index/Component/Navigator/TwoPage",
+    "pages/index/Component/Button/Button"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#FFF0F5",
+    "navigationBarTitleText": "组件二介绍：常用控件",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#fbf9fe"
+  }
+}

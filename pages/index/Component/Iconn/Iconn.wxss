@@ -1,0 +1,7 @@
+/**.wxss**/
+.group{
+  margin-top: 30px;
+  flex-direction: row;
+  align-items: center;
+  background: white;
+}

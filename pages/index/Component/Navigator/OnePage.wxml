@@ -1,0 +1,5 @@
+<view class="viewTitle">
+    <text class="titleName">新建的页面</text>
+    <text class="pagedesc">
+    这是新建的页面，点击左上角返回，回到之前页面</text>
+</view>

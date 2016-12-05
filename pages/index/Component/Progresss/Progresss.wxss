@@ -1,0 +1,6 @@
+/**.wxss**/
+progress{
+  margin-bottom: 60rpx;
+}
+
+

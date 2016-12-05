@@ -1,0 +1,5 @@
+<view class="viewTitle">
+    <text class="titleName">在当前页面打开</text>
+    <text class="pagedesc">
+    这是当前页，点击左上角返回，回到上级菜单</text>
+</view>
